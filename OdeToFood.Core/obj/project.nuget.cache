@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4ff0VyDkk9oX00mMjjhTDPVabY4V4Zt9yDb/+oNY/qIrXPB84w0cnxT9a5plU8p1xd/Vd/rubxPrCh2GdP+8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kryst\\Desktop\\ASP.NET_curses\\ASP.NET_FUNDAMENTS\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kryst\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kryst\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kryst\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OddToFood.Data.deps.json
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OddToFood.Data.dll
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OddToFood.Data.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.csprojAssemblyReference.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.AssemblyInfo.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.csproj.CopyComplete
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.dll
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OddToFood.Data.deps.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OddToFood.Data.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OddToFood.Data.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.csprojAssemblyReference.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.AssemblyInfo.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.csproj.CopyComplete
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\OddToFood.Data\obj\Debug\netstandard2.0\OddToFood.Data.pdb

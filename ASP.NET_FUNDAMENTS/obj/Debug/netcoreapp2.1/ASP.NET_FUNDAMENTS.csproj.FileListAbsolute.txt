@@ -1,0 +1,110 @@
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.deps.json
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.runtimeconfig.json
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.runtimeconfig.dev.json
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.dll
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.Views.dll
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.Views.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.csprojAssemblyReference.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorAssemblyInfo.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorAssemblyInfo.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.AssemblyInfo.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.TagHelpers.input.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.TagHelpers.output.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorCoreGenerate.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorTargetAssemblyInfo.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorTargetAssemblyInfo.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.Views.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.dll
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.genruntimeconfig.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.csproj.CopyComplete
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\OddToFood.Data.dll
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\OddToFood.Data.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Create.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Delete.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Details.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Edit.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Index.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\ClientRestaurants.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\package-lock.json
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\package.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\package-lock.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\package.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.deps.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.runtimeconfig.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.runtimeconfig.dev.json
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.Views.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.Views.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\OddToFood.Data.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\OddToFood.Data.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.csprojAssemblyReference.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorAssemblyInfo.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorAssemblyInfo.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.AssemblyInfo.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.TagHelpers.input.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.TagHelpers.output.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorCoreGenerate.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Create.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Delete.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Details.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Edit.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Index.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\ClientRestaurants.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorTargetAssemblyInfo.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.RazorTargetAssemblyInfo.cs
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.Views.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.csproj.CopyComplete
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.dll
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.pdb
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.genruntimeconfig.cache
+C:\Users\kryst\Desktop\ASP.NET_curses\ASP.NET_FUNDAMENTS\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp2.1\ASP.NET_FUNDAMENTS.csproj.CoreCompileInputs.cache

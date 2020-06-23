@@ -1,0 +1,4 @@
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp3.1\ASP.NET_FUNDAMENTS.csprojAssemblyReference.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp3.1\ASP.NET_FUNDAMENTS.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp3.1\ASP.NET_FUNDAMENTS.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\ASP.NET curses\ASP.NET_FUNDAMENTS\obj\Debug\netcoreapp3.1\ASP.NET_FUNDAMENTS.AssemblyInfo.cs
